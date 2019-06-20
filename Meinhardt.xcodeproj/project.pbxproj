@@ -149,6 +149,7 @@
 		88E64DD122B93DC3008340CA /* Meinhardt */ = {
 			isa = PBXGroup;
 			children = (
+				88E64DE122B93DC5008340CA /* Info.plist */,
 				88E71A7B22BC2A7B00F1A631 /* AppDelegate */,
 				88E71A7A22BC2A4800F1A631 /* Resources */,
 				88E71A7922BC2A3200F1A631 /* Views */,
@@ -245,7 +246,6 @@
 			isa = PBXGroup;
 			children = (
 				88E64DD922B93DC3008340CA /* Meinhardt.xcdatamodeld */,
-				88E64DE122B93DC5008340CA /* Info.plist */,
 			);
 			path = Support;
 			sourceTree = "<group>";
